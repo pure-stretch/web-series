@@ -30,6 +30,7 @@ uv run python scripts/ws.py inventory my-series
 |---|---|
 | `START_HERE.md` | 新窗口启动指令，替代依赖旧聊天记忆 |
 | `inbox/` | 用户原始剧本和素材，只读使用 |
+| `prompts/` | 生图与视频的成功/失败案例、原提示词及修订对照 |
 | `templates/` | 项目、人物场景、镜头、剪辑、交付模板 |
 | `projects/<项目>/` | 该项目状态、图、视频、评审、API任务与批准记录 |
 | `deliveries/` | 分集＋合集＋发布教程的最终ZIP |
