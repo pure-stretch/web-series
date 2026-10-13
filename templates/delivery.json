@@ -1,0 +1,6 @@
+{
+  "name": "series-release-v1",
+  "tutorial": "publish/tutorial.txt",
+  "episodes": [{"id": "01-E01", "video": "edits/E01-final.mp4", "cover": "covers/E01.png", "description": "用户确认的简介及话题"}],
+  "collection": {"id": "ALL", "video": "edits/collection-final.mp4", "cover": "covers/collection.png", "description": "用户确认的总简介及话题"}
+}

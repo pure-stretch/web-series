@@ -1,0 +1,14 @@
+[
+  {
+    "id": "E01-S01",
+    "revision": 1,
+    "episode": "E01",
+    "design": "机位、画面内人物、服装、动作起点终点和空间关系",
+    "line": "本镜准确台词",
+    "image": "images/E01-S01-v1.png",
+    "image_prompt": "本镜首帧图片的完整提示词",
+    "prompt": "独立完整的视频提示词，不能只有人名或引用上一镜",
+    "duration": 5,
+    "audio": true
+  }
+]

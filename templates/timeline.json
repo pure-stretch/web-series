@@ -1,0 +1,16 @@
+{
+  "title": "新网剧\n第一集",
+  "output": "edits/E01-v1.mp4",
+  "speed": 1,
+  "clips": [
+    {
+      "id": "E01-S01",
+      "source": "videos/E01-S01-v1.mp4",
+      "in": 0,
+      "out": 5,
+      "speed": 1,
+      "subtitles": [{"start": 0.5, "end": 3.5, "text": "台词以剧本及实际对白为准"}]
+    }
+  ],
+  "music": []
+}

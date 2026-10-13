@@ -1,0 +1,5 @@
+{
+  "characters": [{"id": "C01", "name": "角色名", "approved_reference": "images/cast/C01-A.png", "appearance": "脸型、发型、年龄感、眼镜等", "clothes": "固定服装", "voice": "参考音频路径及语速音色描述；不承诺模型自动锁定声音"}],
+  "scenes": [{"id": "L01", "name": "场景名", "reference": "images/scenes/L01.png", "layout": "门、柜台、主位及左右位置", "light": "主光源及方向", "continuity": "道具、内外侧、视线轴线"}],
+  "choices": []
+}
